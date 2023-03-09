@@ -1,0 +1,67 @@
+<html> 
+    <head>
+        <body>
+            <header>Mengenang 7-0</header>
+            <main>
+                <aside>
+                    APA ITU MENANG DI ANFIELD
+                </aside>
+                <section>
+                    <article>MU CARI LAWAN SEPADAN TAPI KECAPEAN</article>
+                    <article>TEN HAG PLEASE BOUNCE BACK</article>
+                    <article>TETAP GGMU</article>
+                </section>
+            </main>
+            <img src=""
+            <footer>
+                In Ten Hag We Trust
+            </footer>    
+                    
+                <style>
+                    *{
+                        margin: 0px;
+                        padding: 10px;
+                        box-sizing: border-box;
+                        height: 100%;
+                    }
+                    body{
+                        display: flex;
+                        flex-direction: column;
+                        background-color: darkred;
+                    }
+                    header{
+                        background-color: red;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        font-size: 30px;
+                        display: flex;
+                        flex: 1;
+                    }
+                    main{
+                        background-color: whitesmoke;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        font-size: medium;
+                        display: flex;
+                        flex: 3;
+                    }
+                    section {
+                        display: flex;
+                        width: 100%;
+                        flex: 3;
+                        column-gap: 3px;
+                    }
+                    aside{
+                    width: 20%;
+                    }
+                    footer{
+                    background-color: crimson;
+                    font-size: 25px;
+                    flex: 1%;
+                    }
+                    article{
+                    width: 100%;
+                    background-color: rgb(236, 90, 90);
+                    }
+                </style>
+        </body> 
+    </head>
+</html>        
