@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Notoyudan</title>
+        <link rel="stylesheet" href="stylingmainku.css">
+        <link rel="icon" href="d22b1-Logo_Kota_Yogyakarta.png">
+    </head>
+    <body>
+        <header>
+            
+        <nav>
+            <h1><img src="d22b1-Logo_Kota_Yogyakarta.png" style="width:4%;">KAMPUNGKU</h1>
+            <ul>
+            <li><a href="#" target="_blank"> Budaya </a></li>
+            <li><a href="Calculator.html" target="_blank"> Calculator  </a></li>
+            <li><a href="tictactoe.html" target="_blank"> Tic Tac Toe  </a></li>
+            </ul>
+        </nav>
+        </header>
+        <div class="container">
+            <main>
+                <article>
+                    <header>
+                        <h2>Kampungku</h2>
+                    </header>
+                    <p>Kampungku ini terletak di jalan Letjen Suprapto, Yogyakarta adalah sebuah tempat yang memiliki pesona dan daya tarik yang menarik untuk dijelajahi. 
+                        Di sini, kita dapat menemukan keunikan dan keberagaman budaya Yogyakarta, serta keindahan alam yang memukau. 
+                        Kampung Notoyudan juga memiliki nilai sejarah yang penting, terutama terkait dengan Perang Diponegoro. 
+                        Di sini, kita dapat belajar tentang sejarah perjuangan rakyat Yogyakarta dan merasakan nuansa sejarah yang kental
+                        Kami yakin bahwa kampung Notoyudan akan terus berkembang dan menjadi tempat yang semakin menarik untuk dijelajahi. 
+                        Semoga kampung Notoyudan dapat menjadi contoh bagi kampung-kampung lainnya dalam melestarikan budaya dan sejarah Indonesia, 
+                        serta mempromosikan potensi wisata yang ada di daerah tersebut.
+                    </p>
+                </article>
+                    <img src="latrach-med-jamil-OXgSz0yZHJQ-unsplash.jpg" width="30%">
+                
+                <article>
+                    <header>
+                        <h2>UMKM</h2>
+                    </header>
+                    <p>Banyak masyarakat kampung Notoyudan yang memiliki UMKM.
+                        Selain itu, kampung Notoyudan juga memiliki potensi sebagai destinasi pariwisata yang menarik. Di sini, 
+                        kita dapat menikmati keindahan alam yang memukau, mencicipi kuliner khas Yogyakarta, 
+                        serta berinteraksi dengan masyarakat setempat yang ramah dan hangat.
+                    </p>
+                    <img src="farel-yesha-OPMoyt0Hgto-unsplash.jpg" width="30%">
+                </article>
+
+                
+            </main>
+    
+            <aside>
+                <h2>Tentang Kami</h2>
+                <p>Kampungku merupakan website yang membahas tentang isi suatu daerah mulai dari budaya, sejarah, UMKM, masyarakat, dan hal-hal lainnya. 
+                    Kami yakin bahwa website ini akan memberikan dampak positif bagi kampungku, baik dari sisi promosi dan pengembangan ekonomi, 
+                    maupun dari sisi pelestarian budaya dan sejarah. Selain itu, website ini juga dapat membangun kesadaran masyarakat akan pentingnya menjaga 
+                    keunikan dan keberagaman budaya Indonesia.</p>
+            </aside>
+        </div>
+
+        
+	<footer>
+		<p>Hak Cipta &copy; 2023 Website Kampungku</p>
+	</footer>
+    </body>
+</html>
