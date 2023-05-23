@@ -11,6 +11,7 @@
         <nav>
             <h1><img src="d22b1-Logo_Kota_Yogyakarta.png" style="width:4%;">KAMPUNGKU</h1>
             <ul>
+            <li><a href="mainpage.html" target="_blank"> Home </a></li>
             <li><a href="halamanbudaya.html" target="_blank"> Budaya </a></li>
             <li><a href="Calculator.html" target="_blank"> Calculator  </a></li>
             <li><a href="tictactoe.html" target="_blank"> Tic Tac Toe  </a></li>
@@ -29,7 +30,7 @@
                         Meskipun di kawasan perkotaan, Notoyudan mempunyai potensi kegiatan sosial kemasyarakatan yang dinamis di 4 RT seperti Pertemuan RT, RW, PKK RT, PKK RW, Bank Sampah, Kampung KB, UPPKS, Kampung Proklim, Kampung Lorong Sayur, Kampung Ramah Anak, Kampung Tanggap Bencana, Kampung Kawasan Bebas Asap Rokok dan Kampung PancaTertib karena didukung oleh kelembagaan wilayah yang komitmen bekerja untuk kemajuan wilayah.
                         Potensi lain yang tidak kalah pentingnya adalah tentang budaya yang masih melekat di Notoyudan. Menjadikan daerah ini sangat kental dengan khas Kota Jogja. Berkumpul bersama untuk mencari solusi kemajuan bersama wilayahnya. Selain itu gotong rotong untuk kepentingan umum masih berjalan dengan baik. Kegiatan yang memberikan dampak pada kemajuan wilayah mampu dikobarkan semangatnya oleh kelembagaan, tokoh dan warga. Berikut tautan kegiatan yang eksis di Notoyudan
                     </p>
-                    <video width="750" controls src="VIRTUAL TOUR - Kampung Notoyudan Yogyakarta (Overseas Project Unit Arkom Indonesia, DPU - UCL).mp4"></video>
+                    <video width="750" controls src="videoplayback_2_2.mp4"></video>
                 </article>
             </main>
     
