@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Notoyudan</title>
+        <link rel="stylesheet" href="stylingbudaya.css">
+        <link rel="icon" href="d22b1-Logo_Kota_Yogyakarta.png">
+    </head>
+    <body>
+        <header>
+            
+        <nav>
+            <h1><img src="d22b1-Logo_Kota_Yogyakarta.png" style="width:4%;">KAMPUNGKU</h1>
+            <ul>
+            <li><a href="halamanbudaya.html" target="_blank"> Budaya </a></li>
+            <li><a href="Calculator.html" target="_blank"> Calculator  </a></li>
+            <li><a href="tictactoe.html" target="_blank"> Tic Tac Toe  </a></li>
+            </ul>
+        </nav>
+        </header>
+        <div class="container">
+            <main>
+                <article>
+                    <header>
+                        <h2>Kampungku</h2>
+                    </header>
+                    <p> RW 25 atau disebut Notoyudan Njurang berada di bantaran sungai Winongo yang menjadi batas wilayah sebelah barat, di selatan berbatasan dengan Kecamatan Ngampilan, di sebelah Utara berbatasan dengan RW 22 Notoyudan, Sebelah timur berbatasan dengan Jln. Letjen Suprapto.
+                        Berada di tengah pusat kota Yogyakarta, sekitar 15 menit dari kawasan wisata Malioboro, pusat perblanjaan terbesar di Daerah Istimewa Yogyakarta yaitu Pasar Beringharjo dan juga dekat dengan Kantor Gubernur Daerah Istimewa Yogyakarta.
+                        Dengan letak geografis tersebut sebanyak 16% warganya bekerja sebagai buruh,15% sebagai pedagang dan karyawan swasta 3%, buruh harian lepas 5% dan selebihnya bekerja di sektor informal lain.
+                        Meskipun di kawasan perkotaan, Notoyudan mempunyai potensi kegiatan sosial kemasyarakatan yang dinamis di 4 RT seperti Pertemuan RT, RW, PKK RT, PKK RW, Bank Sampah, Kampung KB, UPPKS, Kampung Proklim, Kampung Lorong Sayur, Kampung Ramah Anak, Kampung Tanggap Bencana, Kampung Kawasan Bebas Asap Rokok dan Kampung PancaTertib karena didukung oleh kelembagaan wilayah yang komitmen bekerja untuk kemajuan wilayah.
+                        Potensi lain yang tidak kalah pentingnya adalah tentang budaya yang masih melekat di Notoyudan. Menjadikan daerah ini sangat kental dengan khas Kota Jogja. Berkumpul bersama untuk mencari solusi kemajuan bersama wilayahnya. Selain itu gotong rotong untuk kepentingan umum masih berjalan dengan baik. Kegiatan yang memberikan dampak pada kemajuan wilayah mampu dikobarkan semangatnya oleh kelembagaan, tokoh dan warga. Berikut tautan kegiatan yang eksis di Notoyudan
+                    </p>
+                    <video width="750" controls src="VIRTUAL TOUR - Kampung Notoyudan Yogyakarta (Overseas Project Unit Arkom Indonesia, DPU - UCL).mp4"></video>
+                </article>
+            </main>
+    
+            <aside>
+                <h2>Tentang Kami</h2>
+                <p>Kampungku merupakan website yang membahas tentang isi suatu daerah mulai dari budaya, sejarah, UMKM, masyarakat, dan hal-hal lainnya. 
+                    Kami yakin bahwa website ini akan memberikan dampak positif bagi kampungku, baik dari sisi promosi dan pengembangan ekonomi, 
+                    maupun dari sisi pelestarian budaya dan sejarah. Selain itu, website ini juga dapat membangun kesadaran masyarakat akan pentingnya menjaga 
+                    keunikan dan keberagaman budaya Indonesia.</p>
+            </aside>
+        </div>
+
+        
+	<footer>
+		<p> Hak Cipta & copy; 2023 Website Kampungku </p>
+	</footer>
+    </body>
+</html>
