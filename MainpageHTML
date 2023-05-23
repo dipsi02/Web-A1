@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Notoyudan</title>
-        <link rel="stylesheet" href="stylingmainku.css">
+        <link rel="stylesheet" href="stylingmain.css">
         <link rel="icon" href="d22b1-Logo_Kota_Yogyakarta.png">
     </head>
     <body>
@@ -11,7 +11,8 @@
         <nav>
             <h1><img src="d22b1-Logo_Kota_Yogyakarta.png" style="width:4%;">KAMPUNGKU</h1>
             <ul>
-            <li><a href="#" target="_blank"> Budaya </a></li>
+            <li><a href="mainpage.html" target="_blank"> Home </a></li>
+            <li><a href="halamanbudaya.html" target="_blank"> Budaya </a></li>
             <li><a href="Calculator.html" target="_blank"> Calculator  </a></li>
             <li><a href="tictactoe.html" target="_blank"> Tic Tac Toe  </a></li>
             </ul>
@@ -60,7 +61,7 @@
 
         
 	<footer>
-		<p>Hak Cipta &copy; 2023 Website Kampungku</p>
+		<p> Hak Cipta & copy; 2023 Website Kampungku </p>
 	</footer>
     </body>
 </html>
